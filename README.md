@@ -190,7 +190,8 @@ Explore interactive slicers and visuals
 
 📷 Dashboard Preview
 
-(Insert your dashboard image here)
+![WhatsApp Image 2025-11-18 at 17 05 47_0478cc74](https://github.com/user-attachments/assets/cce8df6a-f87b-449c-990b-2b5414f236c5)
+
 
 🤝 Contributions
 
